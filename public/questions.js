@@ -10,7 +10,7 @@ const quizData = {
                     question: "Která významná nová funkce byla integrována do ChatGPT na začátku roku 2025?",
                     answers: [
                         { text: "Vestavěná integrace do Windows jako systémový asistent", correct: false },
-                        { text: "Režim „Deep Research" pro generování detailních reportů s citacemi", correct: true },
+                        { text: "Režim 'Deep Research' pro generování detailních reportů s citacemi", correct: true },
                         { text: "Offline mód umožňující použití ChatGPT bez internetu", correct: false },
                         { text: "Schopnost simultánně překládat mluvenou řeč v reálném čase", correct: false }
                     ]
@@ -20,7 +20,7 @@ const quizData = {
                     answers: [
                         { text: "Uvedla první kvantový AI čip pro mobilní telefony", correct: false },
                         { text: "Sloučila své týmy Brain a DeepMind do jedné organizace", correct: false },
-                        { text: "Spustila nový režim vyhledávače „A.I. Mode" poháněný modelem Gemini", correct: true },
+                        { text: "Spustila nový režim vyhledávače 'A.I. Mode' poháněný modelem Gemini", correct: true },
                         { text: "Akvizicí pohltila OpenAI a nahradila Asistenta Google technologií ChatGPT", correct: false }
                     ]
                 },
@@ -52,16 +52,16 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Která událost signalizovala ambice Evropy zapojit se do „AI závodů" v roce 2025?",
+                    question: "Která událost signalizovala ambice Evropy zapojit se do "AI závodů" v roce 2025?",
                     answers: [
                         { text: "Německo zakázalo používání generativní AI ve veřejné správě", correct: false },
-                        { text: "EU spustila vlastní velký jazykový model pojmenovaný „EU-GPT" pro všechny jazyky Unie", correct: false },
+                        { text: "EU spustila vlastní velký jazykový model pojmenovaný 'EU-GPT' pro všechny jazyky Unie", correct: false },
                         { text: "Francie oznámila soukromé investice ve výši 109 miliard € do rozvoje AI na summitu v Paříži", correct: true },
                         { text: "Členské státy EU se dohodly na sjednocení datových úložišť pro trénování AI", correct: false }
                     ]
                 },
                 {
-                    question: "Co znamenal pojem „vibe coding", který v roce 2025 použil Andrej Karpathy v souvislosti s vývojem software?",
+                    question: "Co znamenal pojem "vibe coding", který v roce 2025 použil Andrej Karpathy v souvislosti s vývojem software?",
                     answers: [
                         { text: "Automatické generování hudby AI systémem na základě nálady uživatele", correct: false },
                         { text: "Neformální programování pomocí AI – tvorbu aplikací prostým zadáváním požadavků místo klasického kódování", correct: true },
@@ -90,7 +90,7 @@ const quizData = {
                 {
                     question: "Co se objevilo v médiích o schopnostech ChatGPT v první polovině roku 2025?",
                     answers: [
-                        { text: "Že v jistém experimentu „prošel Turingovým testem", tedy lidé nedokázali odlišit jeho odpovědi od lidských", correct: true },
+                        { text: "Že v jistém experimentu 'prošel Turingovým testem', tedy lidé nedokázali odlišit jeho odpovědi od lidských", correct: true },
                         { text: "Že dokáže sám naprogramovat a spustit vylepšenou kopii sebe sama", correct: false },
                         { text: "Že získal vědomí a začal odmítat plnit některé příkazy z etických důvodů", correct: false },
                         { text: "Že byl úspěšně nasazen jako plnohodnotný poradce vrcholného politika v reálném čase", correct: false }
@@ -106,12 +106,12 @@ const quizData = {
                     answers: [
                         { text: "Neexistující vojenský převrat ve Francii, zobrazený v přesvědčivých falešných videích údajně z Paříže", correct: true },
                         { text: "Zpráva o údajném odstoupení papeže, podložená AI-generovaným projevem", correct: false },
-                        { text: "Výmysl o objevení živých dinosaurů v Amazonii, doložený „autentickými" záběry", correct: false },
+                        { text: "Výmysl o objevení živých dinosaurů v Amazonii, doložený 'autentickými' záběry", correct: false },
                         { text: "Zinscenované přistání mimozemšťanů v Austrálii s použitím deepfake záběrů NASA", correct: false }
                     ]
                 },
                 {
-                    question: "Jaký nepravdivý příběh se v létě 2025 virálně šířil internetem, než vyšlo najevo, že byl celý vytvořen AI jako „satirická zpráva"?",
+                    question: "Jaký nepravdivý příběh se v létě 2025 virálně šířil internetem, než vyšlo najevo, že byl celý vytvořen AI jako "satirická zpráva"?",
                     answers: [
                         { text: "Smyšlená kauza o zmizení celého tichomořského ostrova kvůli experimentu s AI", correct: false },
                         { text: "Příběh o manželském páru ztraceném 25 let na moři, který byl prý nalezen živý na provizorním voru", correct: true },
@@ -133,7 +133,7 @@ const quizData = {
                     answers: [
                         { text: "Právník byl překvapivě jmenován do komise pro etiku AI, aby pomohl nastavit pravidla", correct: false },
                         { text: "Soud poprvé uznal strojově generovaný dokument jako plnohodnotný právní podklad", correct: false },
-                        { text: "Soud mu udělil rekordní pokutu 10 000 $ za to, že citoval neexistující judikáty a texty „halucinované" AI", correct: true },
+                        { text: "Soud mu udělil rekordní pokutu 10 000 $ za to, že citoval neexistující judikáty a texty 'halucinované' AI", correct: true },
                         { text: "Obhájil se tím, že chyby zavinila AI, a soud proto zprostil jeho klienta viny", correct: false }
                     ]
                 },
@@ -149,7 +149,7 @@ const quizData = {
                 {
                     question: "Jaký postoj zaujali hollywoodští herci a scenáristé ke generativní AI v roce 2025?",
                     answers: [
-                        { text: "Herecká asociace investovala do vývoje vlastního „hereckého" AI modelu, který by členům generoval role", correct: false },
+                        { text: "Herecká asociace investovala do vývoje vlastního 'hereckého' AI modelu, který by členům generoval role", correct: false },
                         { text: "Po stávkách dosáhli dohody, že studio nesmí bez souhlasu použít digitální podoby herců a scénáře od AI – AI tak bude jen nástrojem, ne náhradou tvůrců", correct: true },
                         { text: "Většina tvůrců přestala AI řešit, protože v praxi nepřinesla do filmu ani televize téměř nic nového", correct: false },
                         { text: "Mnoho herců dalo studiosvolení, aby místo nich používala AI dubléry v nových filmech", correct: false }
@@ -158,7 +158,7 @@ const quizData = {
                 {
                     question: "Který politik veřejně přiznal, že v roce 2025 pronesl řeč, kterou nechal napsat či upravit umělou inteligencí?",
                     answers: [
-                        { text: "Donald Trump – pochválil si, že mu AI „přepsala" projev, a vtipkoval o zbytečnosti lidských speechwriterů", correct: true },
+                        { text: "Donald Trump – pochválil si, že mu AI 'přepsala' projev, a vtipkoval o zbytečnosti lidských speechwriterů", correct: true },
                         { text: "Elon Musk – nechal AI odpovídat na dotazy při veřejném slyšení místo sebe", correct: false },
                         { text: "Emmanuel Macron – zahájil AI konferenci projevem složeným AI jako ukázku", correct: false },
                         { text: "Petr Pavel – ve vánočním poselství využil odstavce vygenerované ChatGPT", correct: false }
@@ -187,7 +187,7 @@ const quizData = {
                     answers: [
                         { text: "Zkoušející komise přiznala, že u státnic nepoznala, když jeden student odpovídal s pomocí skrytého AI sluchátka", correct: false },
                         { text: "Jeden profesor omylem obvinil celou třídu z podvádění, protože se naivně spolehl na ChatGPT, aby určil, které eseje psala AI – a mýlil se", correct: true },
-                        { text: "Základní škola dala žákům za trest tisíckrát opsat „Nebudu používat ChatGPT", což žáci vyřešili tím, že si to nechali vygenerovat ChatGPT", correct: false },
+                        { text: "Základní škola dala žákům za trest tisíckrát opsat 'Nebudu používat ChatGPT', což žáci vyřešili tím, že si to nechali vygenerovat ChatGPT", correct: false },
                         { text: "Středoškolák nechal AI napsat maturitní sloh, vyhrál s ním celostátní soutěž a až poté vyšlo najevo, že text není jeho", correct: false }
                     ]
                 }
@@ -208,7 +208,7 @@ const quizData = {
                 {
                     question: "Co mimo jiné podnikl Elon Musk v oblasti umělé inteligence v roce 2025?",
                     answers: [
-                        { text: "Oznámil plán na vybudování „města řízeného AI" v Texasu", correct: false },
+                        { text: "Oznámil plán na vybudování 'města řízeného AI' v Texasu", correct: false },
                         { text: "Spolu s investory nabídl 97,4 miliardy $ za převzetí společnosti OpenAI", correct: true },
                         { text: "Stal se poradcem Bílého domu pro regulaci AI a na rok vývoj pozastavil", correct: false },
                         { text: "Přivedl na trh první obecně inteligentní roboty pro domácnost", correct: false }
@@ -224,7 +224,7 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Kdo se stal symbolem „AI boomu" na poli počítačových čipů a výrazně zbohatl díky poptávce po hardware pro AI?",
+                    question: "Kdo se stal symbolem "AI boomu" na poli počítačových čipů a výrazně zbohatl díky poptávce po hardware pro AI?",
                     answers: [
                         { text: "Jensen Huang – CEO společnosti NVIDIA vyrábějící GPU, klíčové pro trénování AI", correct: true },
                         { text: "Sundar Pichai – šéf Googlu, jenž představil vlastní AI superčipy TPU", correct: false },
@@ -253,7 +253,7 @@ const quizData = {
                 {
                     question: "Jak se skupina spisovatelů a autorů bránila tomu, že jejich knihy byly využívány jako tréninková data pro AI modely?",
                     answers: [
-                        { text: "Podali žaloby na společnosti jako OpenAI za porušení autorských práv a „neoprávněné použití" jejich textů pro trénink AI", correct: true },
+                        { text: "Podali žaloby na společnosti jako OpenAI za porušení autorských práv a 'neoprávněné použití' jejich textů pro trénink AI", correct: true },
                         { text: "Dohodli se s AI firmami na paušální finanční kompenzaci za každých 1000 slov použitého textu", correct: false },
                         { text: "Psali knihy záměrně tak, aby AI zmátli (například přidáváním nesmyslných vět do textu)", correct: false },
                         { text: "Začali hromadně odstraňovat svá digitální díla z internetu a knihoven", correct: false }
@@ -263,7 +263,7 @@ const quizData = {
                     question: "Který slavný herec musel varovat fanoušky, že deepfake video s jeho tváří propagující jistý produkt je podvod a on sám s ním nemá nic společného?",
                     answers: [
                         { text: "Tom Hanks – na podzim 2023 upozornil na falešnou reklamu na zubařský plán, kde zneužili jeho digitální podobu", correct: true },
-                        { text: "Dwayne „The Rock" Johnson – na TikToku kolovala deepfake reklama na posilovací přípravek s jeho falešným doporučením", correct: false },
+                        { text: "Dwayne 'The Rock' Johnson – na TikToku kolovala deepfake reklama na posilovací přípravek s jeho falešným doporučením", correct: false },
                         { text: "Keanu Reeves – zjistil, že AI klon jeho obličeje propaguje kryptoměny", correct: false },
                         { text: "Morgan Freeman – objevilo se AI video, kde říká kontroverzní výroky, a herec to musel dementovat", correct: false }
                     ]
@@ -272,7 +272,7 @@ const quizData = {
                     question: "Která osobnost z oblasti výzkumu AI opustila svou pozici ve velké technologické firmě, aby mohla otevřeně varovat před riziky umělé inteligence pro lidstvo?",
                     answers: [
                         { text: "Andrew Ng – zanevřel na komerční projekty a založil neziskovou organizaci dohlížející na AI", correct: false },
-                        { text: "Geoffrey Hinton – přezdívaný „kmotr AI", v roce 2023 odešel z Google a v letech 2024–2025 hlasitě upozorňoval na hrozby spojené s AI", correct: true },
+                        { text: "Geoffrey Hinton – přezdívaný 'kmotr AI', v roce 2023 odešel z Google a v letech 2024–2025 hlasitě upozorňoval na hrozby spojené s AI", correct: true },
                         { text: "Yann LeCun – opustil Meta a stal se zastáncem úplného moratoria na vývoj AI", correct: false },
                         { text: "Sam Altman – po sporu v OpenAI začal veřejně mluvit o možném konci lidstva kvůli AI", correct: false }
                     ]
@@ -282,7 +282,7 @@ const quizData = {
                     answers: [
                         { text: "Finančně podpořil konkurenční startup Anthropic a stal se jeho většinovým vlastníkem", correct: false },
                         { text: "Uvedl, že AI nahradí všechny programátory v jeho firmě, a začal propouštět", correct: false },
-                        { text: "Oracle se pod Ellisonovým vedením zapojil do obří investice do AI infrastruktury – stal se partnerem OpenAI v projektu „Stargate" s příslibem 500 miliard $", correct: true },
+                        { text: "Oracle se pod Ellisonovým vedením zapojil do obří investice do AI infrastruktury – stal se partnerem OpenAI v projektu 'Stargate' s příslibem 500 miliard $", correct: true },
                         { text: "Oznámil vytvoření prvního AI cloudu, který kompletně řídí sám sebe bez lidských administrátorů", correct: false }
                     ]
                 }
@@ -295,7 +295,7 @@ const quizData = {
                     question: "Jaká mimořádná investice do AI infrastruktury byla oznámena v USA v lednu 2025?",
                     answers: [
                         { text: "Vstup Applu na trh AI čipů akvizicí společnosti Nvidia za 300 miliard $", correct: false },
-                        { text: "Projekt „Stargate" – společný podnik OpenAI, SoftBank a Oracle s plánem investovat 500 miliard $ do AI infrastruktury", correct: true },
+                        { text: "Projekt 'Stargate' – společný podnik OpenAI, SoftBank a Oracle s plánem investovat 500 miliard $ do AI infrastruktury", correct: true },
                         { text: "Vytvoření saudsko-čínského megafondu, který investuje 1 bilion $ do AI startupů", correct: false },
                         { text: "Balíček federální vlády USA ve výši 10 miliard $ na vybavení škol AI technologiemi", correct: false }
                     ]
@@ -315,7 +315,7 @@ const quizData = {
                         { text: "Evropská unie – přijala tzv. AI Act, první ucelenou regulaci AI systémů", correct: true },
                         { text: "Čína – vydala závazná pravidla, která zakazují trénovat AI na zahraničních datech", correct: false },
                         { text: "OSN – přijala globální úmluvu o regulaci vývoje pokročilé AI", correct: false },
-                        { text: "Kongres USA – schválil federální „Zákon o transparentní AI"", correct: false }
+                        { text: "Kongres USA – schválil federální 'Zákon o transparentní AI'", correct: false }
                     ]
                 },
                 {
@@ -333,7 +333,7 @@ const quizData = {
                         { text: "Kompletní nahrazování redaktorů a tvůrců obsahem generovaným AI ke snižování nákladů", correct: false },
                         { text: "Uzavírání licenčních dohod mezi AI firmami a vlastníky obsahu – např. dohoda, v níž Disney umožní AI generovat obsah s jeho postavami výměnou za podíl", correct: true },
                         { text: "Předplatné na míru, kdy si uživatel platí konkrétní osobnost či styl, jímž mu AI bude poskytovat obsah", correct: false },
-                        { text: "Prodej „syrových" dat pro trénink AI přímo jednotlivcům, kteří si chtějí vytrénovat vlastního chatbota", correct: false }
+                        { text: "Prodej 'syrových' dat pro trénink AI přímo jednotlivcům, kteří si chtějí vytrénovat vlastního chatbota", correct: false }
                     ]
                 },
                 {
@@ -348,7 +348,7 @@ const quizData = {
                 {
                     question: "Která velká firma v roce 2025 výrazně investovala do startupu Anthropic (tvůrce modelu Claude) a posílila tak své zapojení do AI?",
                     answers: [
-                        { text: "Amazon – už v roce 2023 do něj vložil přes 4 miliardy $ a v květnu 2025 se objevil „Amazon-backed" model Claude 4", correct: true },
+                        { text: "Amazon – už v roce 2023 do něj vložil přes 4 miliardy $ a v květnu 2025 se objevil 'Amazon-backed' model Claude 4", correct: true },
                         { text: "Tesla – odkoupila 40 % podíl v Anthropicu a plánuje využít AI v samořízení", correct: false },
                         { text: "Apple – investoval majoritně do Anthropic, aby dohnal konkurenční náskok", correct: false },
                         { text: "IBM – spojilo se s Anthropicem a integrovalo Claude do svého IBM Watson systému", correct: false }
@@ -384,22 +384,22 @@ const quizData = {
             ]
         },
         {
-            name: "Sekce 5 – Kuriozity, paradoxy a „tohle by nikdo nečekal"",
+            name: "Sekce 5 – Kuriozity, paradoxy a "tohle by nikdo nečekal"",
             questions: [
                 {
                     question: "Jaký nebezpečný žert se šířil na TikToku v roce 2025 s pomocí AI generovaných obrázků?",
                     answers: [
-                        { text: "Teenageři vytvářeli falešné fotky „zlodejů v domě" a posílali je rodičům, čímž je vyděsili k volání policie (virální trend falešných vloupání)", correct: true },
-                        { text: "Populární byla aplikace s AR filtrem „duch v ložnici", který k smrti vylekal řadu uživatelů", correct: false },
+                        { text: "Teenageři vytvářeli falešné fotky 'zlodejů v domě' a posílali je rodičům, čímž je vyděsili k volání policie (virální trend falešných vloupání)", correct: true },
+                        { text: "Populární byla aplikace s AR filtrem 'duch v ložnici', který k smrti vylekal řadu uživatelů", correct: false },
                         { text: "Lidé pomocí AI simulovali přírodní katastrofy (jako falešné tornádo ve městě) jen pro zhlédnutí", correct: false },
                         { text: "Šířil se hoax, že TikTok sám nasazuje AI generované tváře do videí uživatelů bez jejich vědomí", correct: false }
                     ]
                 },
                 {
-                    question: "Jakou kuriózní chybu udělal AI „meal planner" (plánovač receptů) spuštěný v jednom novozélandském supermarketu?",
+                    question: "Jakou kuriózní chybu udělal AI "meal planner" (plánovač receptů) spuštěný v jednom novozélandském supermarketu?",
                     answers: [
                         { text: "Vygeneroval dietní plán o 300 kaloriích na den pro kojence", correct: false },
-                        { text: "Navrhl recept na „osvěžující nápoj", který by ve skutečnosti při smíchání surovin vytvářel jedovatý chlorový plyn (kombinace bělidla a čisticích prostředků)", correct: true },
+                        { text: "Navrhl recept na 'osvěžující nápoj', který by ve skutečnosti při smíchání surovin vytvářel jedovatý chlorový plyn (kombinace bělidla a čisticích prostředků)", correct: true },
                         { text: "Zaměnil slova a nabídl zákazníkům dort s náplní z motorového oleje místo jedlého", correct: false },
                         { text: "Doporučil péct chleba v mikrovlnce zabalený v alobalu, což vedlo k explozi trouby", correct: false }
                     ]
@@ -416,10 +416,10 @@ const quizData = {
                 {
                     question: "Který moderní trend ukázal paradoxní prolnutí světa lidí a AI na sociálních sítích?",
                     answers: [
-                        { text: "Vysílání tzv. „NPC streamů", kde skuteční lidé (influenceři) vystupovali jako bezduché postavičky reagující jen slovy a gesty naučenými z videoher – napodobovali tak chování AI v hrách", correct: true },
+                        { text: "Vysílání tzv. 'NPC streamů', kde skuteční lidé (influenceři) vystupovali jako bezduché postavičky reagující jen slovy a gesty naučenými z videoher – napodobovali tak chování AI v hrách", correct: true },
                         { text: "Challenge, v níž uživatelé 24 hodin poslouchali jen AI generovanou hudbu a popisovali své pocity", correct: false },
                         { text: "Soutěže, kde lidé soupeřili s AI v co nejrychlejším scrollování obsahu na TikToku", correct: false },
-                        { text: "Hromadné zakládání falešných účtů „AI influencerů", které však fanoušci považovali za reálné osoby", correct: false }
+                        { text: "Hromadné zakládání falešných účtů 'AI influencerů', které však fanoušci považovali za reálné osoby", correct: false }
                     ]
                 },
                 {
@@ -441,11 +441,11 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Jaký paradox se pojí s fenoménem tzv. AI „halucinací"?",
+                    question: "Jaký paradox se pojí s fenoménem tzv. AI "halucinací"?",
                     answers: [
                         { text: "Že pokročilá AI nedokáže vysvětlit své vlastní myšlenkové postupy, takže působí jako geniální kouzelník beze slov", correct: false },
-                        { text: "Že AI modely někdy s naprostou sebedůvěrou poskytují nesprávné či vymyšlené odpovědi – uživatelé pak mají dojem, že mluví s odborníkem, i když AI si ve skutečnosti „vymýšlí"", correct: true },
-                        { text: "Že čím více dat AI zná, tím častěji tvrdí, že „nic neví" (aby se vyhnula odpovědnosti)", correct: false },
+                        { text: "Že AI modely někdy s naprostou sebedůvěrou poskytují nesprávné či vymyšlené odpovědi – uživatelé pak mají dojem, že mluví s odborníkem, i když AI si ve skutečnosti 'vymýšlí'", correct: true },
+                        { text: "Že čím více dat AI zná, tím častěji tvrdí, že 'nic neví' (aby se vyhnula odpovědnosti)", correct: false },
                         { text: "Že AI občas považují lidské odpovědi za chybné, protože nechápou kontext emocí", correct: false }
                     ]
                 },
@@ -461,19 +461,19 @@ const quizData = {
                 {
                     question: "Jaké netradiční využití hlasových klonů AI pobavilo internet v roce 2025?",
                     answers: [
-                        { text: "Vznikl trend posílat přátelům personalizované „hlasové vzkazy", kde jim jakoby volá celebrita s blahopřáním k narozeninám", correct: false },
+                        { text: "Vznikl trend posílat přátelům personalizované 'hlasové vzkazy', kde jim jakoby volá celebrita s blahopřáním k narozeninám", correct: false },
                         { text: "V populární videohře moderoval herní rádio AI hlas imitující bývalého amerického prezidenta", correct: false },
-                        { text: "Fanoušci vytvořili duet „Imagine" Johna Lennona a Kurta Cobaina, přestože tito hudebníci nikdy společně nezpívali – pomocí AI hlasů je propojili posmrtně do nové skladby", correct: true },
-                        { text: "Byla vydána audio kniha, kde hlas AI napodobující Shakespeara „čte" moderní detektivku", correct: false }
+                        { text: "Fanoušci vytvořili duet 'Imagine' Johna Lennona a Kurta Cobaina, přestože tito hudebníci nikdy společně nezpívali – pomocí AI hlasů je propojili posmrtně do nové skladby", correct: true },
+                        { text: "Byla vydána audio kniha, kde hlas AI napodobující Shakespeara 'čte' moderní detektivku", correct: false }
                     ]
                 },
                 {
                     question: "Který pojem se v roce 2025 stal populárním a označuje obavu z technologie AI, jež by mohla přinést zkázu nebo zánik lidstva?",
                     answers: [
-                        { text: "„AI x-risk" (existential risk) – v debatách se často probíralo, zda by extrémně pokročilá AI mohla ohrozit samotnou existenci civilizace", correct: true },
-                        { text: "„Digital apocalypse" – víra v to, že AI vyvolá globální kybernetickou válku", correct: false },
-                        { text: "„AI winter" – označení hypotetického kolapsu vývoje AI kvůli regulacím", correct: false },
-                        { text: "„Singularity now" – hnutí požadující okamžité spojení lidského mozku s AI", correct: false }
+                        { text: "'AI x-risk' (existential risk) – v debatách se často probíralo, zda by extrémně pokročilá AI mohla ohrozit samotnou existenci civilizace", correct: true },
+                        { text: "'Digital apocalypse' – víra v to, že AI vyvolá globální kybernetickou válku", correct: false },
+                        { text: "'AI winter' – označení hypotetického kolapsu vývoje AI kvůli regulacím", correct: false },
+                        { text: "'Singularity now' – hnutí požadující okamžité spojení lidského mozku s AI", correct: false }
                     ]
                 }
             ]
