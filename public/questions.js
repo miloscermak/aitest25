@@ -52,7 +52,7 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Která událost signalizovala ambice Evropy zapojit se do "AI závodů" v roce 2025?",
+                    question: "Která událost signalizovala ambice Evropy zapojit se do 'AI závodů' v roce 2025?",
                     answers: [
                         { text: "Německo zakázalo používání generativní AI ve veřejné správě", correct: false },
                         { text: "EU spustila vlastní velký jazykový model pojmenovaný 'EU-GPT' pro všechny jazyky Unie", correct: false },
@@ -61,7 +61,7 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Co znamenal pojem "vibe coding", který v roce 2025 použil Andrej Karpathy v souvislosti s vývojem software?",
+                    question: "Co znamenal pojem 'vibe coding', který v roce 2025 použil Andrej Karpathy v souvislosti s vývojem software?",
                     answers: [
                         { text: "Automatické generování hudby AI systémem na základě nálady uživatele", correct: false },
                         { text: "Neformální programování pomocí AI – tvorbu aplikací prostým zadáváním požadavků místo klasického kódování", correct: true },
@@ -111,7 +111,7 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Jaký nepravdivý příběh se v létě 2025 virálně šířil internetem, než vyšlo najevo, že byl celý vytvořen AI jako "satirická zpráva"?",
+                    question: "Jaký nepravdivý příběh se v létě 2025 virálně šířil internetem, než vyšlo najevo, že byl celý vytvořen AI jako 'satirická zpráva'?",
                     answers: [
                         { text: "Smyšlená kauza o zmizení celého tichomořského ostrova kvůli experimentu s AI", correct: false },
                         { text: "Příběh o manželském páru ztraceném 25 let na moři, který byl prý nalezen živý na provizorním voru", correct: true },
@@ -224,7 +224,7 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Kdo se stal symbolem "AI boomu" na poli počítačových čipů a výrazně zbohatl díky poptávce po hardware pro AI?",
+                    question: "Kdo se stal symbolem 'AI boomu' na poli počítačových čipů a výrazně zbohatl díky poptávce po hardware pro AI?",
                     answers: [
                         { text: "Jensen Huang – CEO společnosti NVIDIA vyrábějící GPU, klíčové pro trénování AI", correct: true },
                         { text: "Sundar Pichai – šéf Googlu, jenž představil vlastní AI superčipy TPU", correct: false },
@@ -384,7 +384,7 @@ const quizData = {
             ]
         },
         {
-            name: "Sekce 5 – Kuriozity, paradoxy a "tohle by nikdo nečekal"",
+            name: "Sekce 5 – Kuriozity, paradoxy a 'tohle by nikdo nečekal'",
             questions: [
                 {
                     question: "Jaký nebezpečný žert se šířil na TikToku v roce 2025 s pomocí AI generovaných obrázků?",
@@ -396,7 +396,7 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Jakou kuriózní chybu udělal AI "meal planner" (plánovač receptů) spuštěný v jednom novozélandském supermarketu?",
+                    question: "Jakou kuriózní chybu udělal AI 'meal planner' (plánovač receptů) spuštěný v jednom novozélandském supermarketu?",
                     answers: [
                         { text: "Vygeneroval dietní plán o 300 kaloriích na den pro kojence", correct: false },
                         { text: "Navrhl recept na 'osvěžující nápoj', který by ve skutečnosti při smíchání surovin vytvářel jedovatý chlorový plyn (kombinace bělidla a čisticích prostředků)", correct: true },
@@ -441,7 +441,7 @@ const quizData = {
                     ]
                 },
                 {
-                    question: "Jaký paradox se pojí s fenoménem tzv. AI "halucinací"?",
+                    question: "Jaký paradox se pojí s fenoménem tzv. AI 'halucinací'?",
                     answers: [
                         { text: "Že pokročilá AI nedokáže vysvětlit své vlastní myšlenkové postupy, takže působí jako geniální kouzelník beze slov", correct: false },
                         { text: "Že AI modely někdy s naprostou sebedůvěrou poskytují nesprávné či vymyšlené odpovědi – uživatelé pak mají dojem, že mluví s odborníkem, i když AI si ve skutečnosti 'vymýšlí'", correct: true },
